@@ -7,3 +7,10 @@
     cursor: pointer;
     color: white;
 }
+
+.icon{
+    color: white;
+}
+.icon:hover{
+    color: rgb(224, 213, 64);
+}
